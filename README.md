@@ -4,6 +4,22 @@ MinGW 32bit and 64bit version of OpenCV compiled on Windows.
 
 ## Releases
 
+### [OpenCV 3.4.5](https://github.com/vacajk/OpenCV-MinGW-Build/tree/OpenCV-3.4.5) | [zip](https://github.com/vacajk/OpenCV-MinGW-Build/archive/OpenCV-3.4.5.zip) | [tar.gz](https://github.com/vacajk/OpenCV-MinGW-Build/archive/OpenCV-3.4.5.tar.gz)
+
+### include debug libs and opencv contrib libs
+
+```
+git clone -b OpenCV-3.4.5 git@github.com:vacajk/OpenCV-MinGW-Build.git
+```
+
+<details><summary>Configuration</summary> 
+
+* MinGW-x32-5.3.0
+* Windows-10-64bit
+* CMake-3.13.3
+
+</details>
+
 ### [OpenCV 4.0.1-x64](https://github.com/huihut/OpenCV-MinGW-Build/tree/OpenCV-4.0.1-x64) | [zip](https://github.com/huihut/OpenCV-MinGW-Build/archive/OpenCV-4.0.1-x64.zip) | [tar.gz](https://github.com/huihut/OpenCV-MinGW-Build/archive/OpenCV-4.0.1-x64.tar.gz)
 
 ```
